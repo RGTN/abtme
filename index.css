@@ -17,7 +17,12 @@ div {
   border:1px;
 }
 
-img{
+.food{
+  display: inline-block;
+  height: 128px;
+}
+
+.icon{
   display: inline-block;
   height: 72px;
 }
